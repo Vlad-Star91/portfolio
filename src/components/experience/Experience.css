@@ -48,7 +48,7 @@
   }
 }
 @media screen and (max-width: 600px) {
-  .experience__container {
+    .experience__container {
     gap: 1rem;
   }
   .experience__container > div {

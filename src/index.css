@@ -58,7 +58,7 @@ h1 {
   font-size: 2.5em;
 }
 section {
-  margin-top: 8rem;
+  margin-top: 6rem;
 }
 section > h2,
 section > h5 {
@@ -109,7 +109,7 @@ img {
     width: var(--container-width-md);
   }
   section {
-    margin-top: 6rem;
+    margin-top: 8rem;
   }
 }
 /* *****Media Queries (Small devices) ***** */
