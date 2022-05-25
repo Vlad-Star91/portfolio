@@ -35,13 +35,13 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a Front-End developer looking for a full-time position in a
+            I am a Front-End developer and looking for a full-time position in a
             company that's aimed at making both everyday life and business
-            easier, more productive and user-friendly. I have sound knowledge of
-            HTML, CSS, JavaScript, React and Node.js. Also, I have hands-on
-            experience in following Agile /Scrum methodology when working in a
-            team. I am a fast learner, responsible, and ready for challenging
-            tasks
+            easier, more productive and user-friendly. I have solid knowledge of
+            HTML, CSS, JavaScript, React and Node.js. Also, I got hands-on
+            experience in following Agile /Scrum methodology when I was working
+            in a team. I am a fast learner, responsible, and ready for
+            challenging tasks
           </p>
 
           <a href="#contact" className="btn btn-primary">
